@@ -9,8 +9,7 @@ Feel free to check out my repositories and connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/)   
-[LeetCode](https://leetcode.com/Nagasri_21)
-
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Nagasri_21&theme=dark)
 
 ---
 
@@ -31,15 +30,12 @@ Feel free to check out my repositories and connect!
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-
-
 ---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nagasri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nagasri&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasrineelamshetty&layout=compact)
-
 
 ---
 
