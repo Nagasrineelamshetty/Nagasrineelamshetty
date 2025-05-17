@@ -9,7 +9,7 @@ Feel free to check out my repositories and connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/)   
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Nagasri_21&theme=dark)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Nagasri_21/)
 
 ---
 
