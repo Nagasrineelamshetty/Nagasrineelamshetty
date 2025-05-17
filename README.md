@@ -7,12 +7,6 @@ Feel free to check out my repositories and connect!
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/)   
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Nagasri_21/)
-
----
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,6 +35,12 @@ Feel free to check out my repositories and connect!
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nagasri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/) 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Nagasri_21/)
 
 ---
 
