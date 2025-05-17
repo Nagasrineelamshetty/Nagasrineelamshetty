@@ -37,7 +37,7 @@ Feel free to check out my repositories and connect!
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=nagasri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nagasrineelamshetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
