@@ -9,7 +9,7 @@ I love collaborating on open-source projects and believe in continuous learning.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/nagasri-neelamshetty)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/)   
 *(Update this link with your actual LinkedIn profile)*
 
 ---
