@@ -9,6 +9,7 @@ Feel free to check out my repositories and connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/)   
+[LeetCode](https://leetcode.com/Nagasri_21)
 
 
 ---
