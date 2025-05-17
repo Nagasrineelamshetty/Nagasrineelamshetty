@@ -9,7 +9,7 @@ I love collaborating on open-source projects and believe in continuous learning.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](www.linkedin.com/in/nagasri-neelamshetty)  
 *(Update this link with your actual LinkedIn profile)*
 
 ---
@@ -24,9 +24,8 @@ I love collaborating on open-source projects and believe in continuous learning.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-...and many more 🚀
+
 
 ---
 
