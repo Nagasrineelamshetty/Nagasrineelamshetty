@@ -1,10 +1,9 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi there, I'm Nagasri! 👋  
 I'm a passionate undergrad focused on building innovative, user-centric solutions. Currently, I’m working on mental health platforms and smart systems using AI/ML. I'm always eager to explore new technologies and enhance digital experiences.  
 
-I love collaborating on open-source projects and believe in continuous learning. Feel free to check out my repositories and connect!
+I love collaborating on open-source projects and believe in continuous learning. 
+Feel free to check out my repositories and connect!
 
 ---
 
@@ -44,11 +43,6 @@ I love collaborating on open-source projects and believe in continuous learning.
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nagasri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
