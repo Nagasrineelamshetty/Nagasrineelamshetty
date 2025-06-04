@@ -30,8 +30,8 @@ Feel free to check out my repositories and connect!!!
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagasri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagasri&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Nagasrineelamshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nagasrineelamshetty&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasrineelamshetty&layout=compact)
 
 ---
