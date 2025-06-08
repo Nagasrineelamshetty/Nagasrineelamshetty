@@ -1,7 +1,7 @@
 Hi there, I'm Nagasri! 👋  
-I'm a passionate undergrad focused on building innovative, user-centric solutions. Currently, I’m working on mental health platforms and smart systems using AI/ML. I'm always eager to explore new technologies and enhance digital experiences.  
+I'm a passionate undergrad focused on building user-centric solutions. Currently, I’m working on mart systems using AI/ML. I'm always eager to explore new technologies and enhance digital experiences.  
 
-I love collaborating on open-source projects and believe in continuous learning. 
+
 Feel free to check out my repositories and connect!!!
 
 ---
