@@ -47,6 +47,5 @@ Feel free to check out my repositories and connect!!!
 
 ---
 
-## 🔗 Let's Connect:
-Feel free to open an issue or pull request in any of my repositories! 😊
+
 
