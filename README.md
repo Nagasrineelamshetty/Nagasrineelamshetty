@@ -1,8 +1,8 @@
 Hi there, I'm Nagasri! 👋  
-I'm a passionate undergrad focused on building user-centric solutions. Currently, I’m working on mart systems using AI/ML. I'm always eager to explore new technologies and enhance digital experiences.  
+I'm a passionate undergrad focused on building user-centric solutions. 
 
+Currently,working on smart systems using AI/ML and I'm eager to explore new technologies and enhance experiences.  
 
-Feel free to check out my repositories and connect!!!
 
 ---
 
