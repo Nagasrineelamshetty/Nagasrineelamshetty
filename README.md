@@ -1,7 +1,7 @@
 Hi there, I'm Nagasri! 👋  
-I'm a passionate undergrad focused on building user-centric solutions. 
+I'm an undergrad focused on building user-centric solutions. 
 
-Currently,working on smart systems using AI/ML and I'm eager to explore new technologies and enhance experiences.  
+Currently working on AI/ML projects.
 
 
 ---
