@@ -1,5 +1,5 @@
 Hi there, I'm Nagasri! 👋  
-I'm an undergrad focused on building user-centric solutions. 
+An undergrad focused on building user-centric solutions. 
 
 Currently working on AI/ML projects.
 
