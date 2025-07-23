@@ -40,6 +40,8 @@ Currently working on AI/ML and FullStack projects.
 ![](https://github-profile-trophy.vercel.app/?username=Nagasrineelamshetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![GSSoC'25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge)](https://gssoc.girlscript.tech/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasri-neelamshetty/) 
