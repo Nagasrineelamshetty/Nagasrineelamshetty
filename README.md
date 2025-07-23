@@ -1,7 +1,7 @@
 Hi there, I'm Nagasri! 👋  
 An undergrad focused on building user-centric solutions. 
 
-Currently working on AI/ML projects.
+Currently working on AI/ML and FullStack projects.
 
 
 ---
